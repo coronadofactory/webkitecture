@@ -2,11 +2,11 @@
 
 /*!
  * webkitecture-connector.php
- * http://coronadofactory.com/service-connector/
+ * http://coronadofactory.com/webkitecture/
  *
- * Copyright (c) 2011-2014 Jose Antonio Garcia
+ * Copyright (c) 2011-2015 Jose Antonio Garcia
  * Released under the MIT license
- * https://raw.github.com/coronadoland/service-connector/master/LICENSE.txt
+ * https://raw.github.com/coronadoland/webkitecture/master/LICENSE.txt
  *
  * Date: 2014-12-25
  */
