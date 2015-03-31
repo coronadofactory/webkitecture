@@ -8,3 +8,4 @@ Welcome to webkitecture
 
 This javascript is ready to support multi domain analytics trace for funnel integrations.
 
+[webkitecture-google.js](https://github.com/coronadoland/webkitecture/blob/master/webkitecture-google.js)
