@@ -1,10 +1,10 @@
 /*!
  * webkitecture-google.js
- * http://coronadofactory.com/google/analytics/
+ * http://coronadofactory.com
  *
  * Copyright (c) 2011-2015 Jose Antonio Garcia
  * Released under the MIT license
- * https://raw.github.com/coronadoland/service-connector/master/LICENSE.txt
+ * https://raw.github.com/coronadoland/webkitecture/master/LICENSE.txt
  *
  * Date: 2015-03-26
  */
