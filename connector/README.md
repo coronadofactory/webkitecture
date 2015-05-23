@@ -12,8 +12,8 @@
 		
 ## Parameters to invoke
 
-* `service` The service to invoke
-* `post url`
+* `service` The service to invoke. This is an objet with two properties (`url` and `method`)
+* `posturl`
 * `request` The request to send the service using ajax architecture
 * `datatype` The datatype to build ContentType String. Default json.
     application/`datatype`;charset=utf8
