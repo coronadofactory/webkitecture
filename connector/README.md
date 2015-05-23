@@ -1,4 +1,4 @@
-# Query.js
+# Query
 
 ## Sintaxis
 
@@ -18,7 +18,7 @@
     application/`datatype`;charset=utf8
 * `callback` The function to call when response is ok
 
-# Form.js
+# Form
 
 ## Sintaxis
 
