@@ -1,3 +1,6 @@
+    
+# Call ajax from javascript
+    
     $.ajax({
       url: '/myurl', method: 'POST', contentType: 'text/html;charset=utf8'
   }).then(function (data) {
